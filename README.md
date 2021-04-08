@@ -13,5 +13,5 @@ The Premise of the Buffer Overflow Automation Tool is to use a binary search log
 ##### Magic Hashes Bypass Script 
 The Script Follows the same style as those Down below with a few modifications & Beneficial Features
 In-Depth Explaination of tool from WhiteHatSec Here -> https://www.whitehatsec.com/blog/magic-hashes/<br>
-Credit to the Person I stole the original script from -> [Here](]https://github.com/jollypolly123/)<br>
+Credit to the Person I stole the original script from -> [Here](https://github.com/jollypolly123/)<br>
 Credit to the GH Repo I stole the original Script from -> [Here](https://github.com/Alic3C/Cyber-FastTrack-Spring-2021/tree/main/Web/WM03)<br>
