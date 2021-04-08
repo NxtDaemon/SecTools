@@ -3,7 +3,7 @@
 1. Input either local (handle file alloc) Or using sockets (handle socket port and address)
 2. Input the Amount of Chars to init with or Automatic mode which starts with 10000
 3. Start on 10000 halve the value on each iteration / take appropriate action on
-4. find the cut off point
+4. find the overwrite sector 
 
 # Considerations
 
