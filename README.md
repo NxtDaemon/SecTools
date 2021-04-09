@@ -2,7 +2,7 @@
 Collection of Security Tools and CTF Autoscripts 
 # Current Scripts 
   1. Buffer Overflow Automation tool ( Pending ) 
-  2. Magic Hashes Bypass Script ( Pending )
+  2. Magic Hashes Bypass Script ( **Uploaded** )
   3. Command Injection Char Autonomizer ( Pending ) 
 
 ____
