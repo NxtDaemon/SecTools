@@ -1,0 +1,3 @@
+[submodule "RotCLI"]
+	path = RotCLI
+	url = https://github.com/NxtDaemon/RotCLI
