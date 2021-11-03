@@ -1,3 +1,8 @@
+[submodule "PersistenceLocator"]
+	path = PersistenceLocator
+	url = https://github.com/NxtDaemon/PersistenceLocator
+	branch = master
 [submodule "RotCLI"]
 	path = RotCLI
 	url = https://github.com/NxtDaemon/RotCLI
+	branch = master
