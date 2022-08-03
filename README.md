@@ -5,6 +5,10 @@ Collection of Security Tools and CTF Autoscripts
   1. RotCLI
   2. PersistenceLocator
   3. Magic Hashes Bypass Script 
+  4. AutoSSH
+  5. Mercury
+  6. Multi-VPN
+  7. HostEditor
 
 ____
 
@@ -21,3 +25,16 @@ The Script Follows the same style as those Down below with a few modifications &
 In-Depth Explaination of tool from WhiteHatSec Here -> https://www.whitehatsec.com/blog/magic-hashes/<br>
 Credit to the Person I stole the original script from -> [Here](https://github.com/jollypolly123/)<br>
 Credit to the GH Repo I stole the original Script from -> [Here](https://github.com/Alic3C/Cyber-FastTrack-Spring-2021/tree/main/Web/WM03)<br>
+
+### **AutoSSH**
+Automatically attempt to obtain ssh persistence when connecting from a reverse shell.
+
+### **Mercury**
+DeliveryToolkit allowing FTP, SMB, HTTP, Raw Socket transfers of files.
+
+### **Multi-VPN**
+Init vpn connections easily and with mutliple configurations
+
+### **HostEditor**
+Easily add hosts to /etc/hosts
+
