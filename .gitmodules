@@ -6,3 +6,15 @@
 	path = RotCLI
 	url = https://github.com/NxtDaemon/RotCLI
 	branch = master
+[submodule "AutoSSH"]
+	path = AutoSSH
+	url = https://github.com/NxtDaemon/AutoSSH
+[submodule "Mercury"]
+	path = Mercury
+	url = https://github.com/NxtDaemon/Mercury
+[submodule "Multi-VPN"]
+	path = Multi-VPN
+	url = https://github.com/NxtDaemon/Multi-VPN
+[submodule "HostEditor"]
+	path = HostEditor
+	url = https://github.com/NxtDaemon/HostEditor
